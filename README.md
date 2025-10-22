@@ -31,7 +31,7 @@ src
 └── test/java
     └── [application package]
         └── examplefeature
-           └── TaskServiceTest.java                 
+           └── TaskServiceTest.java                  
 ```
 
 The main entry point into the application is `Application.java`. This class contains the `main()` method that start up 
